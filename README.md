@@ -94,27 +94,28 @@ Total Sales = SUM(Sales[Sales])
 Total Profit = SUM(Sales[Profit])
 Total Quantity = SUM(Sales[Quantity])
 Total Shipping Cost = SUM(Sales[Shipping Cost])
+```
 
-
-### Business Questions Answered**
+## Business Questions Answered**
 -Which market generates the highest revenue?
 -Which shipping mode is most popular and profitable? 
 -Which country contributes most to the sales? 
 -Which category drives maximum profit? 
 
-### Future Enhancements** 
+## Future Enhancements** 
 -Adding forecasting models for sales trends 
 -Implementing R / Python advanced analytics 
 -Creating drill-through reports for regional markets
 
-### Contributing** 
+## Contributing** 
 -Contributions are welcome! 
 -Feel free to fork this repo, raise issues, or submit pull requests. 
 
-### License** 
+## License** 
 -This project is for learning and analysis purposes only. 
 
-### Contact** 
+## Contact** 
 -For collaboration or suggestions: 
+
 📧 Email: lpunyakanthreddy.com 
 📍 LinkedIn: https://www.linkedin.com/in/punyakanth-reddy-l-b74808396/
