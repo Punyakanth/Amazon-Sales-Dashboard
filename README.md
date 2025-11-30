@@ -119,3 +119,6 @@ Total Shipping Cost = SUM(Sales[Shipping Cost])
 
 📧 Email: lpunyakanthreddy.com  
 📍 LinkedIn: https://www.linkedin.com/in/punyakanth-reddy-l-b74808396/
+
+<img width="1380" height="741" alt="image" src="https://github.com/user-attachments/assets/d4d3f69a-a461-470f-a549-10cc5a38250d" />
+
