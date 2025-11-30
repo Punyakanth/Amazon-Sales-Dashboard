@@ -97,18 +97,18 @@ Total Shipping Cost = SUM(Sales[Shipping Cost])
 ```
 
 ## Business Questions Answered**
--Which market generates the highest revenue?
--Which shipping mode is most popular and profitable? 
--Which country contributes most to the sales? 
--Which category drives maximum profit? 
+-Which market generates the highest revenue?.
+-Which shipping mode is most popular and profitable?. 
+-Which country contributes most to the sales?. 
+-Which category drives maximum profit?. 
 
 ## Future Enhancements** 
--Adding forecasting models for sales trends 
--Implementing R / Python advanced analytics 
--Creating drill-through reports for regional markets
+-Adding forecasting models for sales trends .
+-Implementing R / Python advanced analytics .
+-Creating drill-through reports for regional markets.
 
 ## Contributing** 
--Contributions are welcome! 
+-Contributions are welcome! .
 -Feel free to fork this repo, raise issues, or submit pull requests. 
 
 ## License** 
@@ -117,5 +117,5 @@ Total Shipping Cost = SUM(Sales[Shipping Cost])
 ## Contact** 
 -For collaboration or suggestions: 
 
-📧 Email: lpunyakanthreddy.com 
+📧 Email: lpunyakanthreddy.com  
 📍 LinkedIn: https://www.linkedin.com/in/punyakanth-reddy-l-b74808396/
