@@ -67,11 +67,11 @@
 -Add/remove new data in Excel file
 -Refresh dashboard
 
-**🧮 DAX Measures Used**
--Total Sales = SUM(Sales[Sales])
--Total Profit = SUM(Sales[Profit])
--Total Quantity = SUM(Sales[Quantity])
--Total Shipping Cost = SUM(Sales[Shipping Cost])
+### DAX Measures Used
+- Total Sales = SUM(Sales[Sales])
+- Total Profit = SUM(Sales[Profit])
+- Total Quantity = SUM(Sales[Quantity])
+- Total Shipping Cost = SUM(Sales[Shipping Cost])
 
 **🎯 Business Questions Answered**
 -Which market generates the highest revenue?
